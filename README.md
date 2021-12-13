@@ -15,7 +15,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Z-Kris">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Z-Kris&theme=tokyonight_duo&hide_border=true&ring=5ae87c&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Z-Kris&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
     </td>
   </tr>
 </p>
