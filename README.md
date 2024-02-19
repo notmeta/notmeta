@@ -6,7 +6,7 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/notmeta">
-      <img src="https://github-stats-readme-vercel.vercel.app/api/?username=notmeta&theme=dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+      <img src="https://github-stats-readme-vercel.vercel.app/api/?username=notmeta&theme=dark&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&hide_border=true" />
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/notmeta">
