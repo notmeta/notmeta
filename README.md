@@ -10,7 +10,7 @@
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/notmeta">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notmeta&layout=compact&langs_count=10&disable_animations=true" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notmeta&layout=compact&langs_count=10&disable_animations=true&hide_title=true&theme=dark&hide_border=true" />
     </td>
   </tr>
 </p>
